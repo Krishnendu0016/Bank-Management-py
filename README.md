@@ -40,7 +40,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
     ```
 2. Clone the repository:
     ```bash
-    git clone https://github.com/Krishnendu0016/
+    git clone https://github.com/Krishnendu0016/Bank-Management-py.git
     ```
 3. Navigate to the project directory:
     ```bash
