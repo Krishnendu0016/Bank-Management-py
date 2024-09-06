@@ -44,7 +44,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
     ```
 3. Navigate to the project directory:
     ```bash
-    cd Python-Bank-Project
+    cd Bank-Management-py
     ```
 
 ### Usage
